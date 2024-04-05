@@ -4,7 +4,11 @@
 
 <BODY>
 
+<<<<<<< HEAD
    <H1> VERSIONAMENTO - GIT </H1>
+=======
+   <H1> GIT </H1>
+>>>>>>> main
 
 </BODY>
 
